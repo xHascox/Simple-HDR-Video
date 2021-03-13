@@ -11,9 +11,6 @@ def play_videoFile(filePath,mirror=False):
     height = 1080
     
 
-
-
-
     #cv2.namedWindow('VideoHDR',cv2.WINDOW_AUTOSIZE)
     cv2.namedWindow('VideoHDR',cv2.WINDOW_NORMAL)
 
